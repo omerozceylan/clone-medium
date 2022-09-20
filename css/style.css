@@ -1,0 +1,32 @@
+.btnfirst {
+    margin-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.header1 {
+    padding-bottom: 90px;
+}
+.header2 {
+    height: 400px;
+    margin-top: 50px;
+}
+h3 {
+  color: #E7E7E7;
+}
+/* .body {
+    padding: 100px;
+}*/
+.samsung {
+    margin:3px;
+    
+}
+.list {
+    list-style: none;
+    display: inline;
+    
+}
+.apple {
+    float: left;
+    margin-right:10px ;
+    color: black;
+}
